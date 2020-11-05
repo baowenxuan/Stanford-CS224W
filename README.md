@@ -14,3 +14,9 @@ matplotlib                3.2.2
 ```
 
 More information for [Snap.py](http://snap.stanford.edu/snappy/) and [SNAP](http://snap.stanford.edu/). Note that Snap.py only support python 2.7 and 3.7. 
+
+## Timeline
+HW0: Finished
+HW1: Almost finished
+HW2: Not started
+HW3: Not started
