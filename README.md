@@ -17,6 +17,6 @@ More information for [Snap.py](http://snap.stanford.edu/snappy/) and [SNAP](http
 
 ## Timeline
 HW0: Finished  
-HW1: Almost finished  
-HW2: Not started  
+HW1: Finished  
+HW2: Finish Q1, Q2
 HW3: Not started  
