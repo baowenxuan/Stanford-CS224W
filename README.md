@@ -25,4 +25,4 @@ More information for [Snap.py](http://snap.stanford.edu/snappy/) and [SNAP](http
 HW0: Finished  
 HW1: Finished  
 HW2: Finished  
-HW3: Finish q1, q2, q3 
+HW3: Finished
